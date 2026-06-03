@@ -38,7 +38,7 @@ Sistema completo de gestão de carros desenvolvido com Django.
 - Painel administrativo customizado
 - Projeto real construído do zero
 
-**Stack:** Python · Django · SQLite
+**Stack:** Python · Django · PostgresSQL
 
 ---
 
@@ -47,13 +47,8 @@ Aplicação web real para uma barbearia — entregue e em produção.
 - Interface profissional e responsiva
 - Projeto real desenvolvido para um cliente
 
-**Stack:** HTML · CSS
+**Stack:** Python · Django · PostgresSQL
 
----
-
-## 📊 GitHub Stats
-
-![Ramos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramoos05&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
